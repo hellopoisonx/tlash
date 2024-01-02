@@ -1,5 +1,5 @@
 # Tlash
-## A Clash(Clash.Meta) client wriiten in rust, egui
+## A Clash(Clash.Meta) client written in rust, egui
 
 -----
 
